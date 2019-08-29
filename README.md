@@ -1,3 +1,3 @@
-## Metode strojnog i dubokog učenja za predikciju brisanja rezervacija
+# Metode strojnog i dubokog učenja za predikciju brisanja rezervacija
 
-# Završni rad
+## Završni rad
