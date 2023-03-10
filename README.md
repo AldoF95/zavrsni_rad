@@ -15,3 +15,20 @@ Metode strojnog učenja su sveprisutne neovisno o vrsti industrije za koju se pr
 
 **Dokumentacija:** [priložena dokumentacija završnog rada](https://github.com/AldoF95/zavrsni_rad/blob/master/Metode%20strojnog%20i%20dubokog%20ucenja%20za%20predikciju%20otkazivanja%20rezervacija.pdf)
 
+---
+(ENG)
+
+##  Machine and deep learning methods for predicting reservation cancellations
+
+Author: Aldo Ferlatti
+
+Supervisor: doc. dr. sc. Darko Etinger
+
+Second supervisor: dr. dc. Nikola Tanković
+
+[Juraj Dobrila University of Pula](https://www.unipu.hr/en), [Faculty of Informatics](https://fipu.unipu.hr/fipu/en)
+
+### Abstract
+Machine learning methods are present independently of the type of industry they are applied to. In this final thesis it is analyzed the process of building a classification model: methods used for dataset building and analysis; methods of machine learning and deep learning for model creation and its optimization. Because of the nature of the source data, analysis are made for the hospitality industry but applicable on others too. Based on algorithms comparison, XGBoosting and DNN alghoritms are chosen for the tests. Grid search and Bayesian optimization are the methods for the model optimization.
+
+**Thesis:** [paper associated to this project](https://github.com/AldoF95/zavrsni_rad/blob/master/Metode%20strojnog%20i%20dubokog%20ucenja%20za%20predikciju%20otkazivanja%20rezervacija.pdf)
